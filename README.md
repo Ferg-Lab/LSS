@@ -30,6 +30,10 @@ Some additional dependencies for running and visualizing the examples:
 * [MDTraj](https://www.mdtraj.org/1.9.8.dev0/installation.html)
 * [NGLView](https://github.com/nglviewer/nglview#installation)
 
+Tutorials for Alanine Dipeptide and BBA proteins along with Google Collab notebooks are linked below:
+* [Alanine Dipeptide]([https://numpy.org/install/](https://github.com/Ferg-Lab/IMSI_LSS))
+* [BBA](https://github.com/Ferg-Lab/LSS_BBA)
+
 
 ### Cite
 
