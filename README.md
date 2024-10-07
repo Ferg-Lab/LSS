@@ -31,7 +31,7 @@ Some additional dependencies for running and visualizing the examples:
 * [NGLView](https://github.com/nglviewer/nglview#installation)
 
 Tutorials for Alanine Dipeptide and BBA proteins along with Google Collab notebooks are linked below:
-* [Alanine Dipeptide]([https://numpy.org/install/](https://github.com/Ferg-Lab/IMSI_LSS))
+* [Alanine Dipeptide](https://github.com/Ferg-Lab/IMSI_LSS)
 * [BBA](https://github.com/Ferg-Lab/LSS_BBA)
 
 
